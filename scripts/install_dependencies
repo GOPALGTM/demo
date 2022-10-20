@@ -1,3 +1,3 @@
 #!/bin/bash
-cd /home/ubuntu/project
-pip install django gunicorn
+sudo yum update -y
+sudo install httpd 
